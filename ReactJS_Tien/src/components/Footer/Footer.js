@@ -8,7 +8,7 @@ function Footer() {
             <div className='footer-links'>
                 <div className='footer-link-wrapper'>
                     <div className='footer-link-items'>
-                        <h2> LIÊN HỆ CÔNG TY gì</h2>
+                        <h2> LIÊN HỆ 3</h2>
                         <a>Địa chỉ:</a>
                         <a href='tel:0987976998'>SĐT: 0987976998</a>
                         <a href='mailto:phutruong456321@gmail.com'>error@gmail.com</a>
